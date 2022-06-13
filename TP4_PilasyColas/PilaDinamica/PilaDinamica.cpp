@@ -44,8 +44,7 @@ Nodo *delet(Nodo *nodo)
         Nodo *nodoAux = nodo->nodoAnterior;
         delete nodo;
         return nodoAux;
-    }
-    else
+    } else
     {
 
         cout << "La lista se encuentra vacia" << endl;

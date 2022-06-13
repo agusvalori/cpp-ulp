@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Pilas y Filas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.32026164"
+     inkscape:cx="4533.793"
+     inkscape:cy="1064.7544"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g50862-5" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64935"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64724"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64720"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64716"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64712"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64708"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64325"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path63679" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64199"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64085"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect64042"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path63661" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect63557"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path63661-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path63661-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path63679-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path63661-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path63661-7-88" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-0-8-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path63661-7-8-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path63679-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path63679-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-4-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path63679-1-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g50902"
+       inkscape:label="Nodo">
+      <rect
+         style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect846"
+         width="150"
+         height="60"
+         x="180.15439"
+         y="53.286507" />
+      <rect
+         style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect870"
+         width="150"
+         height="60"
+         x="30.154381"
+         y="53.286507" />
+      <rect
+         style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect872"
+         width="300"
+         height="30"
+         x="30.154381"
+         y="113.28651" />
+      <text
+         xml:space="preserve"
+         style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="51.221138"
+         y="75.784195"
+         id="text2454"><tspan
+           sodipodi:role="line"
+           id="tspan2452"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+           x="51.221138"
+           y="75.784195">DATOS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="200.14581"
+         y="75.65139"
+         id="text2454-5"><tspan
+           sodipodi:role="line"
+           id="tspan2452-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+           x="200.14581"
+           y="75.65139">Puntero</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="105.5027"
+         y="90.179657"
+         id="text7840"><tspan
+           sodipodi:role="line"
+           id="tspan7838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="105.5027"
+           y="90.179657">string, int, float,...</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="105.5027"
+           y="108.92966"
+           id="tspan7842">struct</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.1566px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.348101"
+         x="254.35474"
+         y="92.379715"
+         id="text19341"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.348101"
+           x="254.35474"
+           y="92.379715"
+           id="tspan33793">Apunta a la ubicacion en </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.348101"
+           x="254.35474"
+           y="108.82546"
+           id="tspan35679">memoria  de otro  nodo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+         x="28.298643"
+         y="136.87315"
+         id="text24413"><tspan
+           sodipodi:role="line"
+           id="tspan24411"
+           style="font-size:18.6376px;stroke-width:0.246559"
+           x="28.298643"
+           y="136.87315">Ubicacion de memoria </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="179.27399"
+         y="136.31432"
+         id="text27363"><tspan
+           sodipodi:role="line"
+           id="tspan27361"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="179.27399"
+           y="136.31432">0x544b7ffae8</tspan></text>
+      <ellipse
+         style="fill:none;stroke:#00ff00;stroke-width:1.994;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path29757"
+         cx="180.92628"
+         cy="97.898476"
+         rx="230.49513"
+         ry="83.027809" />
+      <text
+         xml:space="preserve"
+         style="font-size:50px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="52.873432"
+         y="-1.6522945"
+         id="text30413"><tspan
+           sodipodi:role="line"
+           id="tspan30411"
+           style="font-size:50px;stroke-width:0.264583"
+           x="52.873432"
+           y="-1.6522945">NODO - ESLABON</tspan></text>
+    </g>
+    <g
+       id="g87716"
+       inkscape:label="Pila">
+      <g
+         id="g50862">
+        <rect
+           style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8"
+           width="150"
+           height="60"
+           x="616.94495"
+           y="53.311543" />
+        <rect
+           style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect870-5"
+           width="150"
+           height="60"
+           x="466.94498"
+           y="53.311543" />
+        <rect
+           style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect872-6"
+           width="300"
+           height="30"
+           x="466.94498"
+           y="113.31154" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="488.01172"
+           y="75.809235"
+           id="text2454-2"><tspan
+             sodipodi:role="line"
+             id="tspan2452-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+             x="488.01172"
+             y="75.809235">DATOS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="616.32623"
+           y="75.25737"
+           id="text2454-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="616.32623"
+             y="75.25737">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="542.29327"
+           y="90.204697"
+           id="text7840-5"><tspan
+             sodipodi:role="line"
+             id="tspan7838-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="542.29327"
+             y="90.204697">string, int, float,...</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="542.29327"
+             y="108.9547"
+             id="tspan7842-3">struct</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="697.44244"
+           y="100.38302"
+           id="text19341-4"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="697.44244"
+             y="100.38302"
+             id="tspan35679-8">0x1001</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+           x="465.08923"
+           y="136.89819"
+           id="text24413-2"><tspan
+             sodipodi:role="line"
+             id="tspan24411-3"
+             style="font-size:18.6376px;stroke-width:0.246559"
+             x="465.08923"
+             y="136.89819">Ubicacion de memoria </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="616.59375"
+           y="138.98515"
+           id="text27363-5"><tspan
+             sodipodi:role="line"
+             id="tspan27361-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="616.59375"
+             y="138.98515">0x1002</tspan></text>
+      </g>
+      <g
+         id="g50880"
+         transform="translate(224.7121,-23.958275)">
+        <rect
+           style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-8"
+           width="150"
+           height="60"
+           x="396.36359"
+           y="203.67038" />
+        <rect
+           style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect870-5-4"
+           width="150"
+           height="60"
+           x="246.36362"
+           y="203.67038" />
+        <rect
+           style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect872-6-9"
+           width="300"
+           height="30"
+           x="246.36362"
+           y="263.67038" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="267.43036"
+           y="226.16808"
+           id="text2454-2-1"><tspan
+             sodipodi:role="line"
+             id="tspan2452-6-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+             x="267.43036"
+             y="226.16808">DATOS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="395.74487"
+           y="225.61621"
+           id="text2454-5-1-6"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="395.74487"
+             y="225.61621">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="321.71191"
+           y="240.56354"
+           id="text7840-5-3"><tspan
+             sodipodi:role="line"
+             id="tspan7838-9-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="240.56354">string, int, float,...</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="259.31354"
+             id="tspan7842-3-7">struct</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="476.86108"
+           y="250.74185"
+           id="text19341-4-6"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="476.86108"
+             y="250.74185"
+             id="tspan35679-8-3">NULL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+           x="244.50787"
+           y="287.25702"
+           id="text24413-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan24411-3-0"
+             style="font-size:18.6376px;stroke-width:0.246559"
+             x="244.50787"
+             y="287.25702">Ubicacion de memoria </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="396.01239"
+           y="289.34399"
+           id="text27363-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan27361-6-9"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="396.01239"
+             y="289.34399">0x1001</tspan></text>
+      </g>
+      <g
+         id="g50880-9"
+         transform="translate(224.71209,-270.15021)">
+        <rect
+           style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-8-5"
+           width="150"
+           height="60"
+           x="396.36359"
+           y="203.67038" />
+        <rect
+           style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect870-5-4-8"
+           width="150"
+           height="60"
+           x="246.36362"
+           y="203.67038" />
+        <rect
+           style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect872-6-9-4"
+           width="300"
+           height="30"
+           x="246.36362"
+           y="263.67038" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="267.43036"
+           y="226.16808"
+           id="text2454-2-1-4"><tspan
+             sodipodi:role="line"
+             id="tspan2452-6-8-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+             x="267.43036"
+             y="226.16808">DATOS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="395.74487"
+           y="225.61621"
+           id="text2454-5-1-6-5"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-5-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="395.74487"
+             y="225.61621">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="321.71191"
+           y="240.56354"
+           id="text7840-5-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan7838-9-3-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="240.56354">string, int, float,...</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="259.31354"
+             id="tspan7842-3-7-9">struct</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="476.86108"
+           y="250.74185"
+           id="text19341-4-6-1"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="476.86108"
+             y="250.74185"
+             id="tspan35679-8-3-6">0x1002</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+           x="244.50787"
+           y="287.25702"
+           id="text24413-2-3-3"><tspan
+             sodipodi:role="line"
+             id="tspan24411-3-0-3"
+             style="font-size:18.6376px;stroke-width:0.246559"
+             x="244.50787"
+             y="287.25702">Ubicacion de memoria </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="396.01239"
+           y="289.34399"
+           id="text27363-5-1-0"><tspan
+             sodipodi:role="line"
+             id="tspan27361-6-9-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="396.01239"
+             y="289.34399">0x1003</tspan></text>
+      </g>
+      <g
+         id="g50880-9-0"
+         transform="translate(226.36439,-396.55077)">
+        <rect
+           style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-8-5-0"
+           width="150"
+           height="60"
+           x="396.36359"
+           y="203.67038" />
+        <rect
+           style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect870-5-4-8-0"
+           width="150"
+           height="60"
+           x="246.36362"
+           y="203.67038" />
+        <rect
+           style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect872-6-9-4-4"
+           width="300"
+           height="30"
+           x="246.36362"
+           y="263.67038" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="267.43036"
+           y="226.16808"
+           id="text2454-2-1-4-4"><tspan
+             sodipodi:role="line"
+             id="tspan2452-6-8-1-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+             x="267.43036"
+             y="226.16808">DATOS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="395.74487"
+           y="225.61621"
+           id="text2454-5-1-6-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-5-2-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="395.74487"
+             y="225.61621">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="321.71191"
+           y="240.56354"
+           id="text7840-5-3-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan7838-9-3-8-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="240.56354">string, int, float,...</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="259.31354"
+             id="tspan7842-3-7-9-7">struct</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="476.86108"
+           y="250.74185"
+           id="text19341-4-6-1-7"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="476.86108"
+             y="250.74185"
+             id="tspan35679-8-3-6-6">0x1003</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+           x="244.50787"
+           y="287.25702"
+           id="text24413-2-3-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan24411-3-0-3-7"
+             style="font-size:18.6376px;stroke-width:0.246559"
+             x="244.50787"
+             y="287.25702">Ubicacion de memoria </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="396.01239"
+           y="289.34399"
+           id="text27363-5-1-0-0"><tspan
+             sodipodi:role="line"
+             id="tspan27361-6-9-6-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="396.01239"
+             y="289.34399">0x1004</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#870000;stroke-width:3.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 769.14324,-153.66342 c 50.11994,25.88612 100.23953,51.77206 98.31121,79.035113 -1.92832,27.263048 -55.90221,55.902255 -109.87726,84.5420761"
+         id="path63555"
+         inkscape:path-effect="#path-effect63557"
+         inkscape:original-d="m 769.14324,-153.66342 c 50.11989,25.88622 100.23948,51.77217 150.35884,77.657858 -53.97579,28.640614 -107.94968,57.279818 -161.92489,85.9193311" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:3.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+         d="m 771.63179,-39.68231 c 50.11994,25.886122 100.23953,51.772063 98.31121,79.03512 -1.92832,27.263057 -55.9022,55.90228 -109.87726,84.54213"
+         id="path63555-9"
+         inkscape:path-effect="#path-effect64042"
+         inkscape:original-d="M 771.63179,-39.68231 C 821.75168,-13.79609 871.87127,12.089855 921.99063,37.975548 868.01484,66.616162 814.04095,95.255366 760.06574,123.89494" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:3.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-8)"
+         d="m 769.41249,91.480541 c 50.11997,25.886169 100.23955,51.772129 98.3112,79.035239 -1.92835,27.2631 -55.9022,55.90236 -109.87725,84.54225"
+         id="path63555-9-3"
+         inkscape:path-effect="#path-effect64085"
+         inkscape:original-d="m 769.41249,91.480541 c 50.11989,25.886319 100.23948,51.772259 150.35884,77.657949 -53.97579,28.64076 -107.94968,57.27996 -161.92489,85.91954" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 432.90124,-330.45897 c 39.10458,35.79997 78.20891,71.5997 117.31294,107.39917"
+         id="path64197"
+         inkscape:path-effect="#path-effect64199"
+         inkscape:original-d="m 432.90124,-330.45897 c 39.10457,35.79998 78.2089,71.59971 117.31294,107.39917" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-6)"
+         d="m 685.63716,-218.95283 c 39.10458,-35.79997 78.20891,-71.5997 117.31294,-107.39917"
+         id="path64197-4"
+         inkscape:path-effect="#path-effect64325"
+         inkscape:original-d="m 685.63716,-218.95283 c 39.10457,-35.79998 78.2089,-71.59971 117.31294,-107.39917" />
+    </g>
+    <g
+       id="g87641"
+       inkscape:label="Fila">
+      <g
+         id="g50862-5"
+         transform="translate(577.77805,-1.529624)">
+        <rect
+           style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-2"
+           width="150"
+           height="60"
+           x="616.94495"
+           y="53.311543" />
+        <rect
+           style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect870-5-5"
+           width="150"
+           height="60"
+           x="466.94498"
+           y="53.311543" />
+        <rect
+           style="fill:#ff5555;stroke:none;stroke-width:2.99488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect872-6-3"
+           width="300"
+           height="30"
+           x="466.94498"
+           y="113.31154" />
+        <text
+           xml:space="preserve"
+           style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="488.01172"
+           y="75.809235"
+           id="text2454-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2452-6-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+             x="488.01172"
+             y="75.809235">DATOS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="616.32623"
+           y="75.25737"
+           id="text2454-5-1-3"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="616.32623"
+             y="75.25737">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="542.29327"
+           y="90.204697"
+           id="text7840-5-7"><tspan
+             sodipodi:role="line"
+             id="tspan7838-9-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="542.29327"
+             y="90.204697">string, int, float,...</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="542.29327"
+             y="108.9547"
+             id="tspan7842-3-4">struct</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="697.44244"
+           y="100.38302"
+           id="text19341-4-4"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="697.44244"
+             y="100.38302"
+             id="tspan35679-8-0">0x1003</tspan></text>
+        <rect
+           style="fill:#00ffff;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-2-1"
+           width="150"
+           height="60"
+           x="766.94495"
+           y="53.311543" />
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="766.32623"
+           y="75.25737"
+           id="text2454-5-1-3-8"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-3-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="766.32623"
+             y="75.25737">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="847.44244"
+           y="100.38303"
+           id="text19341-4-4-5"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="847.44244"
+             y="100.38303"
+             id="tspan35679-8-0-6">0x1003</tspan></text>
+        <rect
+           style="fill:#00ffff;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-2-1-5"
+           width="150"
+           height="60"
+           x="771.07568"
+           y="-66.479828" />
+        <text
+           xml:space="preserve"
+           style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+           x="770.45697"
+           y="-44.534"
+           id="text2454-5-1-3-8-9"><tspan
+             sodipodi:role="line"
+             id="tspan2452-1-2-3-4-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+             x="770.45697"
+             y="-44.534">Puntero A:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="851.57318"
+           y="-19.408335"
+           id="text19341-4-4-5-3"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="851.57318"
+             y="-19.408335"
+             id="tspan35679-8-0-6-3">0x1003</tspan></text>
+        <rect
+           style="fill:#00ffff;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect846-8-2-1-5-3"
+           width="150"
+           height="60"
+           x="772.72797"
+           y="-192.88039" />
+        <text
+           xml:space="preserve"
+           style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+           x="853.22546"
+           y="-145.8089"
+           id="text19341-4-4-5-3-6"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+             x="853.22546"
+             y="-145.8089"
+             id="tspan35679-8-0-6-3-2">0x1003</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+           x="465.08923"
+           y="136.89819"
+           id="text24413-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan24411-3-5"
+             style="font-size:18.6376px;stroke-width:0.246559"
+             x="465.08923"
+             y="136.89819">Ubicacion de memoria </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="616.59375"
+           y="138.98515"
+           id="text27363-5-6"><tspan
+             sodipodi:role="line"
+             id="tspan27361-6-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="616.59375"
+             y="138.98515">0x1002</tspan></text>
+      </g>
+      <g
+         id="g50880-5"
+         transform="translate(802.49015,-25.487904)">
+        <g
+           id="g1556"
+           inkscape:label="NodoInicial">
+          <text
+             xml:space="preserve"
+             style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+             x="476.86111"
+             y="250.74188"
+             id="text19341-4-4-5-5"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+               x="476.86111"
+               y="250.74188"
+               id="tspan35679-8-0-6-8">0x1003</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+             x="395.7449"
+             y="225.61621"
+             id="text2454-5-1-3-8-2"><tspan
+               sodipodi:role="line"
+               id="tspan2452-1-2-3-4-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+               x="395.7449"
+               y="225.61621">Puntero A:</tspan></text>
+          <rect
+             style="fill:#00ffff;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect846-8-2-1-2"
+             width="150"
+             height="60"
+             x="396.36362"
+             y="203.67038" />
+          <rect
+             style="fill:#00ff00;stroke:none;stroke-width:1.75084;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect846-8-8-57"
+             width="150"
+             height="60"
+             x="546.36365"
+             y="203.67038" />
+          <rect
+             style="fill:#ffff00;stroke:none;stroke-width:2.37926;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect870-5-4-5"
+             width="150"
+             height="60"
+             x="246.36362"
+             y="203.67038" />
+          <rect
+             style="fill:#ff5555;stroke:none;stroke-width:3.66796;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+             id="rect872-6-9-6"
+             width="450"
+             height="30"
+             x="246.36362"
+             y="263.67038" />
+          <text
+             xml:space="preserve"
+             style="font-size:30px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="267.43036"
+             y="226.16808"
+             id="text2454-2-1-7"><tspan
+               sodipodi:role="line"
+               id="tspan2452-6-8-17"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.264583"
+               x="267.43036"
+               y="226.16808">DATOS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:29.3848px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.259157"
+             x="545.74493"
+             y="225.61621"
+             id="text2454-5-1-6-4"><tspan
+               sodipodi:role="line"
+               id="tspan2452-1-2-5-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3848px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';stroke-width:0.259157"
+               x="545.74493"
+               y="225.61621">Puntero A:</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="321.71191"
+             y="240.56354"
+             id="text7840-5-3-5"><tspan
+               sodipodi:role="line"
+               id="tspan7838-9-3-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               x="321.71191"
+               y="240.56354">string, int, float,...</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               x="321.71191"
+               y="259.31354"
+               id="tspan7842-3-7-6">struct</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:23.9235px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.632974"
+             x="626.86115"
+             y="250.74185"
+             id="text19341-4-6-7"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;stroke-width:0.632974"
+               x="626.86115"
+               y="250.74185"
+               id="tspan35679-8-3-0">0x1002</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:18.6376px;line-height:1.25;font-family:Bangers;-inkscape-font-specification:Bangers;letter-spacing:0px;word-spacing:0px;stroke-width:0.246559"
+             x="356.86392"
+             y="287.25702"
+             id="text24413-2-3-5"><tspan
+               sodipodi:role="line"
+               id="tspan24411-3-0-39"
+               style="font-size:18.6376px;stroke-width:0.246559"
+               x="356.86392"
+               y="287.25702">Ubicacion de memoria </tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Bell MT';-inkscape-font-specification:'Bell MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="508.36844"
+             y="289.34399"
+             id="text27363-5-1-1"><tspan
+               sodipodi:role="line"
+               id="tspan27361-6-9-4"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Bangers;-inkscape-font-specification:'Bangers Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+               x="508.36844"
+               y="289.34399">0x1001</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#fc0000;stroke-width:3.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-8-4)"
+         d="m 1498.8538,254.05758 c 50.12,-25.88618 100.2395,-51.77211 98.3111,-79.03524 -1.9283,-27.26313 -55.9021,-55.90241 -109.8772,-84.542344"
+         id="path63555-9-3-8"
+         inkscape:path-effect="#path-effect64716"
+         inkscape:original-d="m 1498.8538,254.05758 c 50.1199,-25.88632 100.2394,-51.77226 150.3588,-77.65795 -53.9758,-28.64076 -107.9497,-57.27996 -161.9249,-85.919634" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4)"
+         d="m 1010.6793,-331.98859 c 39.1046,35.79997 78.2089,71.59968 117.313,107.39917"
+         id="path64197-7"
+         inkscape:path-effect="#path-effect64720"
+         inkscape:original-d="m 1010.6793,-331.98859 c 39.1046,35.79998 78.2089,71.59971 117.313,107.39917" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-6)"
+         d="m 1225.1115,290.26655 c 39.1046,35.79992 78.2089,71.59968 117.313,107.39917"
+         id="path64197-7-5"
+         inkscape:path-effect="#path-effect64935"
+         inkscape:original-d="m 1225.1115,290.26655 c 39.1045,35.79998 78.2089,71.59971 117.313,107.39917" />
+    </g>
+  </g>
+</svg>

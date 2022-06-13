@@ -3,7 +3,14 @@ using namespace std;
 const int TAM = 10;
 struct Nodo
 {
-    string value[TAM];
+    string value[TAM]; //{,11,12,13,0,0,5,6,7,8,9}
+
+    //{0, 1, 2,  3,4,5,6,7,8,9,10}
+    //{0,11,12,13,14,0,0,0,0,0,0}
+    // int posInicial = 8;
+    // int posFinal = 4;
+    // int length = 8;
+
     int posInicial = 0;
     int posFinal = 0;
     int length = 0;

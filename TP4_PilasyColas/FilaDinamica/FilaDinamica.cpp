@@ -3,57 +3,43 @@ using namespace std;
 
 struct Nodo
 {
-    string values;
-    Nodo *ptrIn;
-    Nodo *ptrAnt;
-    Nodo *ptrSte = NULL;
-    int length;
+    string value;
+    Nodo *nodoAnt;
+    Nodo *nodoIn;
 };
 
 void push(Nodo *&nodoOld, string value)
 {
     Nodo *nodoNew = new Nodo();
-    nodoNew->values = value;
-    nodoNew->ptrAnt = nodoOld;
-    nodoNew->length++;
+    nodoNew->value = value;
 
     if (nodoOld)
     {
-        nodoNew->ptrIn = nodoOld->ptrIn;
-        nodoOld->ptrSte = nodoNew;
+        nodoNew->nodoIn = nodoOld->nodoIn;
+        nodoOld->nodoAnt = nodoNew;
     }
     else
     {
-        nodoNew->ptrIn = nodoNew;
+        nodoNew->nodoIn = nodoNew;
     }
 
     nodoOld = nodoNew;
 }
 
-void mostrar(Nodo *fila)
+void put(Nodo *&nodo)
 {
-    while (fila)
+    if (nodo)
     {
-        cout << fila->values << ". ";
-        fila = fila->ptrAnt;
-    }
-    cout << endl;
-}
-
-void inicial(Nodo *fila)
-{
-    Nodo *nodoAux = fila->ptrIn;
-    cout << "Nodo Inicial: " << nodoAux->values << endl;
-}
-
-void put(Nodo *&fila)
-{
-    Nodo *newNodoInicial = fila->ptrIn->ptrSte;
-    if (fila)
-    {        
-        newNodoInicial->ptrAnt=nullptr;
-        fila->ptrIn = newNodoInicial;
-        
+        if (nodo != nodo->nodoIn)
+        {
+            Nodo *nodoInicial = nodo->nodoIn;
+            nodo->nodoIn = nodoInicial->nodoAnt;
+            delete nodoInicial;
+        }
+        else
+        {
+            nodo = NULL;
+        }
     }
     else
     {
@@ -61,19 +47,45 @@ void put(Nodo *&fila)
     }
 }
 
+void mostrar(Nodo *nodo)
+{
+    if (nodo)
+    {
+        Nodo *nodoInicial = nodo->nodoIn;
+        while (nodoInicial)
+        {
+            cout << nodoInicial->value << ". ";
+            nodoInicial = nodoInicial->nodoAnt;
+        }
+        cout << endl;
+    }
+}
+
 int main(int argc, char const *argv[])
 {
-
     Nodo *fila = NULL;
     push(fila, "Nodo 1");
     push(fila, "Nodo 2");
     push(fila, "Nodo 3");
     push(fila, "Nodo 4");
     push(fila, "Nodo 5");
-
     mostrar(fila);
-    put(fila);
+    put(fila); //delet nodo 1
+    mostrar(fila);
+    push(fila, "Nodo 6");
+    mostrar(fila);
+    put(fila);  //delet nodo 2
+    put(fila);  //delet nodo 3
+    put(fila);  //delet nodo 4
+    put(fila);  //delet nodo 5
+    put(fila);  //delet nodo 6
+    put(fila);  //delet no exisste
+    put(fila);  //delet no exisste
     mostrar(fila);
 
+    push(fila, "Nodo 7");
+    push(fila, "Nodo 8");
+    push(fila, "Nodo 9");
+    mostrar(fila);
     return 0;
 }
